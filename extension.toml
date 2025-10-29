@@ -1,0 +1,11 @@
+id = "ocimatic"
+name = "Ocimatic"
+description = "Support for Ocimatic"
+version = "0.0.1"
+schema_version = 1
+authors = ["Nico Lehmann <nico.lehmannm@gmail.com>"]
+repository = "https://github.com/OCIoficial/ocimatic-zed"
+
+[grammars.testplan]
+repository = "https://github.com/OCIoficial/tree-sitter-testplan"
+commit = "0e5bc65f5b9129a3afbdbff1370877c4ecf7c4e6"

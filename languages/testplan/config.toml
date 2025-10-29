@@ -1,0 +1,11 @@
+name = "Testplan"
+grammar = "testplan"
+path_suffixes = ["testplan.txt"]
+line_comments = ["# "]
+tab_size = 2
+brackets = [
+    { start = "[", end = "]", close = true, newline = true },
+    { start = "\"", end = "\"", close = true, newline = false, not_in = [
+        "string",
+    ] },
+]
