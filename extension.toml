@@ -8,4 +8,4 @@ repository = "https://github.com/OCIoficial/ocimatic-zed"
 
 [grammars.testplan]
 repository = "https://github.com/OCIoficial/tree-sitter-testplan"
-commit = "0e5bc65f5b9129a3afbdbff1370877c4ecf7c4e6"
+commit = "dc108226bb32313fdad6754261415e54576910ce"
