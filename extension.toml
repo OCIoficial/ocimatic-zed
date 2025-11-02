@@ -9,3 +9,7 @@ repository = "https://github.com/OCIoficial/ocimatic-zed"
 [grammars.testplan]
 repository = "https://github.com/OCIoficial/tree-sitter-testplan"
 commit = "dc108226bb32313fdad6754261415e54576910ce"
+
+[language_servers.ocimatic-language-server]
+name = "Ocimatic Language Server"
+languages = ["Testplan"]
